@@ -41,5 +41,5 @@ Explicação : 2 é a base 3 é expoente ou seja o número 2 é multiplicado por
  Depois: 
  4 x 2 = 8  
 resultado final = 8 
----
+--- bash
 Bons exercícios!!
