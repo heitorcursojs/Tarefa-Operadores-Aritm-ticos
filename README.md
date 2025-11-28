@@ -87,7 +87,7 @@ Resultado:
 
 Por quê?
 
-- 10 dividido por 3 é igual a 3  
+- 10 dividido por 3 é igual a  
 - 3 × 3 = 9  
 - **10 − 9 = 1** (este é o resto)
 
