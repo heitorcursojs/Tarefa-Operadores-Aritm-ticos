@@ -23,7 +23,7 @@ Resultado esperado:
 
 ---
 
-## ➖ Operador - (Subtração)
+### ➖ Operador - (Subtração)
 
 Exemplo:
 
